@@ -1,0 +1,58 @@
+.one {
+    height: 500px;
+    width: 500px;
+    border: 1px solid black;
+    margin-top: 26px;
+    margin-left: 447px;
+    position: relative;
+}
+
+.two {
+    margin-left: 600px;
+}
+
+input[type=text],input[type=passward] {
+    width: 99%;
+    padding: 3px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+
+}
+
+.three {
+    margin-left: 10px;
+    top: 10px;
+    position: absolute;
+}
+.btn{
+    background-color: darkgreen;
+    color: white;
+    padding: 12px 15px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+.btn:hover{
+    opacity: 0.8;
+}
+.footer{
+    background-color: #f1f1f1;
+    height: 100px;
+
+}
+.canclebtn{
+background-color: red;
+border: none;
+position: absolute;
+top: 228px;
+height: 40px;
+width: 116px;
+}
+.Forgotpsw{
+   float: right;
+   margin-top: 40px;
+}
+
+
+
